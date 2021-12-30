@@ -21,6 +21,7 @@
 请参阅下方表格找到对应立绘文件
 
 | 舰娘 | 文件 | 立绘 | 预览 |
-| :--- | :--- | :--- | :---: |
-| 恶毒 | edu_4 | 懒懒的白兔 |  |
-| 伊丽莎白女王 | yilishabai_6 | Maid·My·Highness |  |
+| :---: | :---: | :---: | :---: |
+| 恶毒 | edu_4 | 懒懒的白兔 | ![](img/edu_4.jpg) |
+| 伊丽莎白女王 | yilishabai_6 | Maid·My·Highness | ![](img/yilishabai_6.jpg) |
+| <img width=250/> | <img width=150/> | | |
