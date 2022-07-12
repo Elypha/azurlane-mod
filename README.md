@@ -12,7 +12,7 @@
   - 请不要在任何中国大陆公共平台讨论本仓库
   - 请不要公开传播包含 mod 的截图或视频
 
-- 根据你的口味，将你想要的立绘资源文件覆盖进相应文件夹即可，其中
+- 根据口味，将你想要的立绘的资源文件放进对应文件夹中，其中
 
   - `live2d` 文件夹包含 Live2D 立绘文件，这些文件应放在 `/storage/emulated/0/Android/data/com.bilibili.azurlane/files/AssetBundles/live2d` 中覆盖原文件
   - `painting` 文件夹包含静态立绘文件，这些文件应放在 `/storage/emulated/0/Android/data/com.bilibili.azurlane/files/AssetBundles/painting` 中覆盖原文件
