@@ -4,7 +4,7 @@
 
 本仓库托管了这些修改过的资源文件
 
-# Installing
+# Installation
 
 - ❗️ 在使用之前请确保你理解：
 
@@ -16,6 +16,16 @@
 
   - `live2d` 文件夹包含 Live2D 立绘文件，这些文件应放在 `/storage/emulated/0/Android/data/com.bilibili.azurlane/files/AssetBundles/live2d` 中覆盖原文件
   - `painting` 文件夹包含静态立绘文件，这些文件应放在 `/storage/emulated/0/Android/data/com.bilibili.azurlane/files/AssetBundles/painting` 中覆盖原文件
+
+# Make your edit
+
+如果你想自行修改（其他立绘），可以尝试利用以下工具
+
+- `UnityLive2DExtractor` 提取贴图
+- `Live2D Cubism Viewer` 预览效果
+- `Unity Assets Bundle Extractor` 打包
+
+具体请参考 [notes.md](https://github.com/Elypha/azurlane-mod/blob/main/notes.md)
 
 # List
 
